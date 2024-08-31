@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
+- [Project Overview and Significance](#project-overview-and-significance)
 - [Research Objectives](#research-objectives)
 - [Research Questions](#research-questions)
 - [Data Source](#data-source)
@@ -13,11 +13,13 @@
     - [Key Stakeholders](#key-stakeholders)
     - [Recommendations](#recommendations)
 
-## Project Overview
+## Project Overview and Significance
 
 Road Traffic Collisions (RTC) poses a huge global menace in urban settings leading to damage of properties, injuries, tragic loss of life, and socio-economic consequences. This project conducts a comprehensive analysis of road accident data in Cambridgeshire focusing on the collision severity across different levels (slight, serious, and fatal), distributions, and statistical analysis to give insight into the contributing factors, the patterns and trends. The study addresses the need for robust Machine Learning (ML) algorithms for effective prediction of road traffic severity. 
 
-This research aim to contribute to the growth of Cambridgeshire and the findings will help several key stakeholders in making informed decisions and implementing practical measures to curb the occurrences and severity of road traffic accidents.
+This project holds great significance as it contributes to the efforts aimed at improving road safety and reducing the consequences of road traffic accidents in Cambridgeshire, UK. The rate of traffic fatalities in Cambridgeshire has increased in recent years, indicating an alarming trend that requires quick intervention.
+
+This study findings aim to provide valuable recommendations and insights to individuals, traffic management key stakeholders to effectively design policies that will increase road traffic safety and reduce the fatality rates. This will be achieved by utilising machine learning techniques to analyse the comprehensive road traffic collision dataset of Cambridgeshire. 
 
 
 ## Research Objectives:
