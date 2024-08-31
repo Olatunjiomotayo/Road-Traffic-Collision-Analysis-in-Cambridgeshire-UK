@@ -17,8 +17,6 @@
 
 Road Traffic Collisions (RTC) poses a huge global menace in urban settings leading to damage of properties, injuries, tragic loss of life, and socio-economic consequences. This project conducts a comprehensive analysis of road accident data in Cambridgeshire focusing on the collision severity across different levels (slight, serious, and fatal), distributions, and statistical analysis to give insight into the contributing factors, the patterns and trends. The study addresses the need for robust Machine Learning (ML) algorithms for effective prediction of road traffic severity. 
 
-The models, including Gradient Boosting Machine (GBM), Multi-Layer Perceptron (MLP), Support Vector Machine (SVM), Logistic Regression (LR) and Random Forest (RF) were built by analysing historical data gathered from Cambridgeshire insight data repository. The performance of the models was evaluated using recall, precision, and F1-score. 
-
 This research aim to contribute to the growth of Cambridgeshire and the findings will help several key stakeholders in making informed decisions and implementing practical measures to curb the occurrences and severity of road traffic accidents.
 
 
@@ -91,7 +89,7 @@ In this project, five machine learning models were built including:
 - Logistic Regression (LR)
 - Random Forest (RF).
 
-The models established a strong performance with high accuracy. Random forest classifier performed best with accuracy of 97%, Multi-Layer Perceptron and Gradient Boosting Machine came close with accuracy of 95% and 93% respectively. Support Vector Machine has accuracy of 92% while Logistic Regression has lowest accuracy of 88%.
+The performance of the models was evaluated using recall, precision, and F1-score. The models established a strong performance with high accuracy. Random forest classifier performed best with accuracy of 97%, Multi-Layer Perceptron and Gradient Boosting Machine came close with accuracy of 95% and 93% respectively. Support Vector Machine has accuracy of 92% while Logistic Regression has lowest accuracy of 88%.
 
 ### 3. Who will benefit from this road traffic collision analysis, and how can it be used to improve road safety and curb accidents?
 
