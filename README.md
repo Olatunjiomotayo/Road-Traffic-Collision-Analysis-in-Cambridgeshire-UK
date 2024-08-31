@@ -60,9 +60,9 @@ This study used a dataset obtained from the Cambridgeshire Insight data reposito
 
 ## Research Focus and Answers
 
-#### 1.	What are the primary factors contributing to the occurrence of road traffic accidents and severity of collisions in Cambridgeshire?
+### 1.	What are the primary factors contributing to the occurrence of road traffic accidents and severity of collisions in Cambridgeshire?
 
-#### Contributing Factors:
+### Contributing Factors:
 i.	Human Factors: 
 -	Speed Limit: higher speed limit leads to increased force of impact and collision severity.
 -	Driver Fatigue: causes error that can lead to collision.
@@ -80,9 +80,9 @@ iii.	Vehicular Factors:
 -	Vehicle Type: Larger vehicles cause more collision severity.
 -	Safety Features: Seat belts, lack of airbags increases the risk of severe collision.
 
-#### 2. Which machine learning model is most effective for predicting the severity of road traffic collisions in Cambridgeshire?
+### 2. Which machine learning model is most effective for predicting the severity of road traffic collisions in Cambridgeshire?
 
-#### Result of Machine Learning Models
+### Result of Machine Learning Models
 
 In this project, five machine learning models were built including:
 - Gradient Boosting Machine (GBM)
@@ -93,9 +93,9 @@ In this project, five machine learning models were built including:
 
 The models established a strong performance with high accuracy. Random forest classifier performed best with accuracy of 97%, Multi-Layer Perceptron and Gradient Boosting Machine came close with accuracy of 95% and 93% respectively. Support Vector Machine has accuracy of 92% while Logistic Regression has lowest accuracy of 88%.
 
-#### 3. Who will benefit from this road traffic collision analysis, and how can it be used to improve road safety and curb accidents?
+### 3. Who will benefit from this road traffic collision analysis, and how can it be used to improve road safety and curb accidents?
 
-#### Key Stakeholders:
+### Key Stakeholders:
 
 - Department for Transportation
 - Local Traffic Management Authorities
@@ -109,9 +109,9 @@ The models established a strong performance with high accuracy. Random forest cl
 
 The analysis can be used by the department of Transportation to help create policies that promote road safety. The road safety corps can concentrate its initiatives on high-risk areas and periods, this will reduce traffic collisions through targeted intervention. The local authorities and policy makers can utilise the findings of this study to educate drivers, motorists and residents and regulate their traffic rules and laws, like prospective speed limits, speed camera, road design, use of seatbelts, and procedures for enforcement.
 
-#### 4. What recommendations can be made to local authorities, traffic management, and policymakers to enhance road safety and limit the number of casualties in Cambridgeshire?
+### 4. What recommendations can be made to local authorities, traffic management, and policymakers to enhance road safety and limit the number of casualties in Cambridgeshire?
 
-#### Recommendations
+### Recommendations
 
 Based on the analysis findings, the following recommendations could be made to enhance overall road safety in Cambridgeshire.
 
