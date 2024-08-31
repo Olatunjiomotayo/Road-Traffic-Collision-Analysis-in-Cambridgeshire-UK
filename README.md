@@ -1,4 +1,4 @@
-# Analysis of Road Traffic Collisions in Cambridgeshire, United Kingdom,
+# Analysis of Road Traffic Collisions in Cambridgeshire, United Kingdom
 
 ## Project Overview
 
