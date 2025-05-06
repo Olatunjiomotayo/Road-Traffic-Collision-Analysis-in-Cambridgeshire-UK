@@ -24,7 +24,7 @@ This study findings aim to provide valuable recommendations and insights to indi
 
 ## Research Objectives:
 
-1.	Perform exploratory data analysis to know distribution of each variable and their relationships across the categories of collision severity to get insights on major contributing factors.
+1.	Perform exploratory data analysis (EDA) to know distribution of each variable and their relationships across the categories of collision severity to get insights on major contributing factors.
 
 2.	Build highly effective ML models, including GBM, LR, RF, SVM and NN that can accurately predict high-risk regions, factors, level of severity and number of casualties for RTCs in Cambridgeshire.
 
